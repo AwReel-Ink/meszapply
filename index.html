@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>MesZapply</title>
+  <meta name="description" content="Toutes mes applis réunies derrière une seule icône.">
+  <meta name="theme-color" content="#1d2540">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="MesZapply">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/version.js"></script>
+</head>
+<body>
+  <div id="shell" class="shell">
+    <header class="topbar">
+      <div class="brand">
+        <img class="brand-logo" src="icons/favicon.svg" alt="" width="36" height="36">
+        <h1 class="brand-name">MesZapply</h1>
+      </div>
+      <div class="topbar-actions">
+        <button id="btn-refresh" class="icon-btn" type="button" aria-label="Actualiser la galerie" title="Actualiser"></button>
+        <button id="btn-settings" class="icon-btn" type="button" aria-label="Paramètres" title="Paramètres"></button>
+      </div>
+    </header>
+
+    <nav id="tabs" class="tabs" role="tablist" hidden>
+      <button class="tab active" type="button" role="tab" aria-selected="true" data-tab="gallery">Galerie</button>
+      <button class="tab" type="button" role="tab" aria-selected="false" data-tab="manage">Gérer</button>
+    </nav>
+
+    <p id="status-line" class="status-line" hidden></p>
+
+    <main id="view-gallery" class="view" aria-live="polite"></main>
+    <main id="view-manage" class="view" hidden></main>
+  </div>
+
+  <div id="windows" class="windows"></div>
+  <div id="modal-root"></div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+
+  <div class="saving-indicator" aria-hidden="true"></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

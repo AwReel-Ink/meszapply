@@ -1,0 +1,206 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-24T00:00:00.000Z",
+  "categories": [
+    {
+      "id": "cuisine",
+      "name": "Cuisine",
+      "emoji": "🍳"
+    },
+    {
+      "id": "loisirs",
+      "name": "Loisirs",
+      "emoji": "🎲"
+    },
+    {
+      "id": "jardinage",
+      "name": "Jardinage",
+      "emoji": "🌱"
+    },
+    {
+      "id": "outils",
+      "name": "Outils",
+      "emoji": "🛠️"
+    },
+    {
+      "id": "quotidien",
+      "name": "Quotidien",
+      "emoji": "🏠"
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
+      "emoji": "⚽"
+    }
+  ],
+  "apps": [
+    {
+      "id": "q-histo",
+      "name": "Q-Histo",
+      "description": "Application de gestion de recettes",
+      "url": "https://awreel-ink.github.io/Q-Histo/",
+      "repo": "Q-Histo",
+      "icon": "",
+      "color": "",
+      "category": "cuisine",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "barbeuq",
+      "name": "BarBeuQ",
+      "description": "Comparaison charbon, sauvegarde de favoris, comparaison prix, guide.",
+      "url": "https://awreel-ink.github.io/BarBeuQ/",
+      "repo": "BarBeuQ",
+      "icon": "",
+      "color": "",
+      "category": "cuisine",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "starbeer",
+      "name": "StarBeer",
+      "description": "Carnet de notation des bières",
+      "url": "https://awreel-ink.github.io/StarBeer/",
+      "repo": "StarBeer",
+      "icon": "",
+      "color": "",
+      "category": "cuisine",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "plateau-surprise",
+      "name": "Plateau_Surprise",
+      "description": "Gestion et archivage des jeux de société, avec sélection aléatoire",
+      "url": "https://awreel-ink.github.io/Plateau_Surprise/",
+      "repo": "Plateau_Surprise",
+      "icon": "",
+      "color": "",
+      "category": "loisirs",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "de-compte",
+      "name": "De_Compte",
+      "description": "Gestion de tour et de dé (personnalisable).",
+      "url": "https://awreel-ink.github.io/De_Compte/",
+      "repo": "De_Compte",
+      "icon": "",
+      "color": "",
+      "category": "loisirs",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "graga",
+      "name": "GRAGA",
+      "description": "Suivi de vos jeux à gratter",
+      "url": "https://awreel-ink.github.io/GRAGA/",
+      "repo": "GRAGA",
+      "icon": "",
+      "color": "",
+      "category": "loisirs",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "ecrano-app",
+      "name": "Ecrano-App",
+      "description": "Application de gestion de DVD & Blu-ray",
+      "url": "https://awreel-ink.github.io/Ecrano-App/",
+      "repo": "Ecrano-App",
+      "icon": "",
+      "color": "",
+      "category": "loisirs",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "p-o-t-a",
+      "name": "P.O.T.A",
+      "description": "Calendrier potager, semis & conseils",
+      "url": "https://awreel-ink.github.io/P.O.T.A/",
+      "repo": "P.O.T.A",
+      "icon": "",
+      "color": "",
+      "category": "jardinage",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "mesurepro",
+      "name": "MesurePro",
+      "description": "Plusieurs outils de mesure qui peuvent être utiles en dépannage.",
+      "url": "https://awreel-ink.github.io/MesurePro/",
+      "repo": "MesurePro",
+      "icon": "",
+      "color": "",
+      "category": "outils",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "dessnotes",
+      "name": "DessNotes",
+      "description": "Éditeur d'image pour prise de notes : calques, pinceau, règle, gomme, texte. Formats HEIF, HEIC, PNG, JPG, WebP…",
+      "url": "https://awreel-ink.github.io/DessNotes/",
+      "repo": "DessNotes",
+      "icon": "",
+      "color": "",
+      "category": "outils",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "vi-turette",
+      "name": "VI-Turette",
+      "description": "Calcul de temps de trajet réaliste — voiture & voiturette sans permis",
+      "url": "https://awreel-ink.github.io/VI-Turette/",
+      "repo": "VI-Turette",
+      "icon": "",
+      "color": "",
+      "category": "outils",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "meszeur",
+      "name": "MesZeuR",
+      "description": "Gérez vos heures de travail simplement",
+      "url": "https://awreel-ink.github.io/MesZeuR/",
+      "repo": "MesZeuR",
+      "icon": "",
+      "color": "",
+      "category": "quotidien",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "energie-pile",
+      "name": "Energie_Pile",
+      "description": "Gestion des piles par appareil",
+      "url": "https://awreel-ink.github.io/Energie_Pile/",
+      "repo": "Energie_Pile",
+      "icon": "",
+      "color": "",
+      "category": "quotidien",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "lipeno",
+      "name": "LIPENO",
+      "description": "Création de listes de jouets pour Noël",
+      "url": "https://awreel-ink.github.io/LIPENO/",
+      "repo": "LIPENO",
+      "icon": "",
+      "color": "",
+      "category": "quotidien",
+      "hidden": false,
+      "openMode": "inside"
+    }
+  ]
+}
