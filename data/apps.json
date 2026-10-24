@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T16:21:05.492Z",
+  "updatedAt": "2026-10-24T16:21:24.691Z",
   "categories": [
     {
       "id": "cuisine",
@@ -127,18 +127,6 @@
       "icon": "https://awreel-ink.github.io/P.O.T.A/icon-192.png",
       "color": "#2d6a4f",
       "category": "jardinage",
-      "hidden": false,
-      "openMode": "inside"
-    },
-    {
-      "id": "mesurepro",
-      "name": "MesurePro",
-      "description": "Plusieurs outils de mesure qui peuvent être utiles en dépannage.",
-      "url": "https://awreel-ink.github.io/MesurePro/",
-      "repo": "MesurePro",
-      "icon": "https://awreel-ink.github.io/MesurePro/icons/icon-192.png",
-      "color": "#4f8ef7",
-      "category": "outils",
       "hidden": false,
       "openMode": "inside"
     },
