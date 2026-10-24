@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T16:21:24.691Z",
+  "updatedAt": "2026-10-24T16:22:51.126Z",
   "categories": [
     {
       "id": "cuisine",
@@ -187,6 +187,18 @@
       "icon": "https://awreel-ink.github.io/LIPENO/icons/icon-192.png",
       "color": "#b1262b",
       "category": "quotidien",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "procro",
+      "name": "ProCro",
+      "description": "Calcule de produit en croix et comparaison 2 produits / 4 valeurs.",
+      "url": "https://awreel-ink.github.io/ProCro/",
+      "repo": "ProCro",
+      "icon": "https://awreel-ink.github.io/ProCro/192.png",
+      "color": "#6366f1",
+      "category": "cuisine",
       "hidden": false,
       "openMode": "inside"
     }
