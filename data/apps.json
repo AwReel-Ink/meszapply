@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T16:22:51.126Z",
+  "updatedAt": "2026-10-24T16:23:06.681Z",
   "categories": [
     {
       "id": "cuisine",
@@ -198,7 +198,7 @@
       "repo": "ProCro",
       "icon": "https://awreel-ink.github.io/ProCro/192.png",
       "color": "#6366f1",
-      "category": "cuisine",
+      "category": "outils",
       "hidden": false,
       "openMode": "inside"
     }
