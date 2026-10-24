@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T00:00:00.000Z",
+  "updatedAt": "2026-10-24T16:21:05.492Z",
   "categories": [
     {
       "id": "cuisine",
@@ -40,8 +40,8 @@
       "description": "Application de gestion de recettes",
       "url": "https://awreel-ink.github.io/Q-Histo/",
       "repo": "Q-Histo",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/Q-Histo/icons/icon-192.png",
+      "color": "#2196f3",
       "category": "cuisine",
       "hidden": false,
       "openMode": "inside"
@@ -52,8 +52,8 @@
       "description": "Comparaison charbon, sauvegarde de favoris, comparaison prix, guide.",
       "url": "https://awreel-ink.github.io/BarBeuQ/",
       "repo": "BarBeuQ",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/BarBeuQ/icons/icon-192.png",
+      "color": "#d2691e",
       "category": "cuisine",
       "hidden": false,
       "openMode": "inside"
@@ -64,8 +64,8 @@
       "description": "Carnet de notation des bières",
       "url": "https://awreel-ink.github.io/StarBeer/",
       "repo": "StarBeer",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/StarBeer/icons/icon-192.png",
+      "color": "#c9a227",
       "category": "cuisine",
       "hidden": false,
       "openMode": "inside"
@@ -76,8 +76,8 @@
       "description": "Gestion et archivage des jeux de société, avec sélection aléatoire",
       "url": "https://awreel-ink.github.io/Plateau_Surprise/",
       "repo": "Plateau_Surprise",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/Plateau_Surprise/icon-192.png",
+      "color": "#ffd700",
       "category": "loisirs",
       "hidden": false,
       "openMode": "inside"
@@ -88,8 +88,8 @@
       "description": "Gestion de tour et de dé (personnalisable).",
       "url": "https://awreel-ink.github.io/De_Compte/",
       "repo": "De_Compte",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/De_Compte/icon-192.png",
+      "color": "#0f1120",
       "category": "loisirs",
       "hidden": false,
       "openMode": "inside"
@@ -100,8 +100,8 @@
       "description": "Suivi de vos jeux à gratter",
       "url": "https://awreel-ink.github.io/GRAGA/",
       "repo": "GRAGA",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/GRAGA/icon-192.png",
+      "color": "#6366f1",
       "category": "loisirs",
       "hidden": false,
       "openMode": "inside"
@@ -112,8 +112,8 @@
       "description": "Application de gestion de DVD & Blu-ray",
       "url": "https://awreel-ink.github.io/Ecrano-App/",
       "repo": "Ecrano-App",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/Ecrano-App/icons/icon-192x192.png",
+      "color": "#e94560",
       "category": "loisirs",
       "hidden": false,
       "openMode": "inside"
@@ -124,8 +124,8 @@
       "description": "Calendrier potager, semis & conseils",
       "url": "https://awreel-ink.github.io/P.O.T.A/",
       "repo": "P.O.T.A",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/P.O.T.A/icon-192.png",
+      "color": "#2d6a4f",
       "category": "jardinage",
       "hidden": false,
       "openMode": "inside"
@@ -136,8 +136,8 @@
       "description": "Plusieurs outils de mesure qui peuvent être utiles en dépannage.",
       "url": "https://awreel-ink.github.io/MesurePro/",
       "repo": "MesurePro",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/MesurePro/icons/icon-192.png",
+      "color": "#4f8ef7",
       "category": "outils",
       "hidden": false,
       "openMode": "inside"
@@ -148,8 +148,8 @@
       "description": "Éditeur d'image pour prise de notes : calques, pinceau, règle, gomme, texte. Formats HEIF, HEIC, PNG, JPG, WebP…",
       "url": "https://awreel-ink.github.io/DessNotes/",
       "repo": "DessNotes",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/DessNotes/icon-192.png",
+      "color": "#1a1a1a",
       "category": "outils",
       "hidden": false,
       "openMode": "inside"
@@ -160,8 +160,8 @@
       "description": "Calcul de temps de trajet réaliste — voiture & voiturette sans permis",
       "url": "https://awreel-ink.github.io/VI-Turette/",
       "repo": "VI-Turette",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/VI-Turette/icons/icon-192.png",
+      "color": "#1b4332",
       "category": "outils",
       "hidden": false,
       "openMode": "inside"
@@ -172,8 +172,8 @@
       "description": "Gérez vos heures de travail simplement",
       "url": "https://awreel-ink.github.io/MesZeuR/",
       "repo": "MesZeuR",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/MesZeuR/icon192x192.png",
+      "color": "#2c3e50",
       "category": "quotidien",
       "hidden": false,
       "openMode": "inside"
@@ -184,8 +184,8 @@
       "description": "Gestion des piles par appareil",
       "url": "https://awreel-ink.github.io/Energie_Pile/",
       "repo": "Energie_Pile",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/Energie_Pile/icon-192.png",
+      "color": "#0a0a23",
       "category": "quotidien",
       "hidden": false,
       "openMode": "inside"
@@ -196,8 +196,8 @@
       "description": "Création de listes de jouets pour Noël",
       "url": "https://awreel-ink.github.io/LIPENO/",
       "repo": "LIPENO",
-      "icon": "",
-      "color": "",
+      "icon": "https://awreel-ink.github.io/LIPENO/icons/icon-192.png",
+      "color": "#b1262b",
       "category": "quotidien",
       "hidden": false,
       "openMode": "inside"
