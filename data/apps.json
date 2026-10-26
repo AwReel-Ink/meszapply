@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T16:23:06.681Z",
+  "updatedAt": "2026-10-26T22:36:26.842Z",
   "categories": [
     {
       "id": "cuisine",
@@ -199,6 +199,18 @@
       "icon": "https://awreel-ink.github.io/ProCro/192.png",
       "color": "#6366f1",
       "category": "outils",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "pixelperle",
+      "name": "Pixel Perles",
+      "description": "Convertir une image en modèle de perles à repasser 2,6 mm, plaque par plaque.",
+      "url": "https://awreel-ink.github.io/PixelPerle/",
+      "repo": "PixelPerle",
+      "icon": "https://awreel-ink.github.io/PixelPerle/icons/icon-192.png",
+      "color": "#c72e66",
+      "category": "loisirs",
       "hidden": false,
       "openMode": "inside"
     }
