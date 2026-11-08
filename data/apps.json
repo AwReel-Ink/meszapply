@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T22:36:26.842Z",
+  "updatedAt": "2026-11-08T21:15:46.091Z",
   "categories": [
     {
       "id": "cuisine",
@@ -211,6 +211,18 @@
       "icon": "https://awreel-ink.github.io/PixelPerle/icons/icon-192.png",
       "color": "#c72e66",
       "category": "loisirs",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "fuseau3d",
+      "name": "Fuseau — CAO légère",
+      "description": "Application de création 3D simple et rapide.",
+      "url": "https://awreel-ink.github.io/Fuseau3D/",
+      "repo": "Fuseau3D",
+      "icon": "https://awreel-ink.github.io/Fuseau3D/icon-192.png",
+      "color": "#26303b",
+      "category": "outils",
       "hidden": false,
       "openMode": "inside"
     }
