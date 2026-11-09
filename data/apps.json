@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-08T21:15:46.091Z",
+  "updatedAt": "2026-11-09T17:25:38.116Z",
   "categories": [
     {
       "id": "cuisine",
@@ -223,6 +223,18 @@
       "icon": "https://awreel-ink.github.io/Fuseau3D/icon-192.png",
       "color": "#26303b",
       "category": "outils",
+      "hidden": false,
+      "openMode": "inside"
+    },
+    {
+      "id": "hoplafi",
+      "name": "Hoplàfi !",
+      "description": "Partage de fichier entre appareil.",
+      "url": "https://awreel-ink.github.io/Hoplafi/",
+      "repo": "Hoplafi",
+      "icon": "https://awreel-ink.github.io/Hoplafi/icons/icon-192.png",
+      "color": "#1d4ed8",
+      "category": "cuisine",
       "hidden": false,
       "openMode": "inside"
     }
