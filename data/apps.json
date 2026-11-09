@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-09T17:25:38.116Z",
+  "updatedAt": "2026-11-09T17:25:47.987Z",
   "categories": [
     {
       "id": "cuisine",
@@ -234,7 +234,7 @@
       "repo": "Hoplafi",
       "icon": "https://awreel-ink.github.io/Hoplafi/icons/icon-192.png",
       "color": "#1d4ed8",
-      "category": "cuisine",
+      "category": "outils",
       "hidden": false,
       "openMode": "inside"
     }
